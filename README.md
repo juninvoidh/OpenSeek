@@ -21,6 +21,12 @@
 ## 📦 Instalação Rápida
 
 ```bash
+#Baixar repositório
+git clone https://github.com/juninvoidh/OpenSeek
+cd OpenSeek
+python3 -m venv venv
+source venv/bin/activate
+
 # Instalar dependências
 pip install -r requirements.txt
 playwright install chromium
