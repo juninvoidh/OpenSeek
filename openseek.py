@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-OpenSeek - API com Auto Session
-VERSÃO DEFINITIVA - Remove caracteres invisíveis no início da resposta
-"""
-
 import asyncio
 import json
 import logging
